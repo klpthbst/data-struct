@@ -6,20 +6,21 @@
 #include <time.h>
 
 /*
-* read size-elements from input
+* read 1D array of size-elements from input
 * using scanf()
 */
 void    read_array(int my_array[], int size);
 
 /*
-* display array size-elemnts
+* display 1D array of size-elemnts
 * using printf()
 */
 void    display_array(int my_array[], int size);
 
 /*
-* init array with
+* init  1D array with
 * random numbers
+* if function using more the ones - seed vaule must be different
 */
 void    init_array(int my_array[], int size, int min, int max, long long int seed);
 
