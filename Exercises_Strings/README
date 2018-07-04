@@ -1,0 +1,82 @@
+    1. Write a program in which a string is passed as an
+argument to a function.
+	 2.	Write a program in C to concatenate first n
+characters of a string with another string.
+	 3.	Write a program in C that compares first n
+characters of one string with first n characters of
+another string.
+	 4.	 Write a program in C that removes leading and
+trailing spaces from a string.
+	 5.	 Write a program in C that replaces a given
+character with another character in a string.
+6.	Write a program to count the number of digits,
+upper case characters, lower case characters, and
+special characters in a given string.
+	 7.	Write a program to count the total number of
+occurrences of a given character in the string.
+	 8.	Write a program to accept a text. Count and
+display the number of times the word ‘the’ appears
+in the text.
+	 9.	Write a program to count the total number of
+occurrences of a word in the text.
+	 10.	Write a program to find the last instance of
+occurrence of a sub-string within a string.
+	 11.	 Write a program to input an array of strings. Then,
+reverse the string in the format shown below.
+"HAPPY BIRTHDAY TO YOU" should be displayed
+
+as "YOU TO BIRTHDAY HAPPY"
+	 12.	 Write a program to append a given string in the
+following format.
+"GOOD MORNING MORNING GOOD"
+
+	 13.	Write a program to input a text of at least two
+paragraphs. Interchange the first and second
+paragraphs and then re-display the text on the
+screen.
+	 14.	Write a program to input a text of at least two
+paragraphs. Construct an array PAR such that
+PAR[I] contains the location of the ith paragraph
+in text .
+	 15.	 Write a program to convert the given string "GOOD
+MORNING" to "good morning" .
+	 16.	 Write a program to concatenate two given
+strings "Good Morning" and "World" . Display the
+resultant string.
+	 17.	 Write a program to check whether the two given
+strings "Good Morning" and "Good Morning" are
+same.
+	 18.	 Write a program to convert the given string "hello
+world" to "dlrow olleh" .
+	 19.	 Write a program to extract the string "od Mo" from
+the given string "Good Morning" .
+	 20.	Write a program to insert "University" in the
+given string "Oxford Press" so that the string
+should read as "Oxford University Press" .
+	 21.	 Write a program to read a text, delete all the semi-
+colons it has, and finally replace all '.' with a ',' .
+	 22.	 Write a program to copy the last n characters of a
+character array in another character array. Also,
+convert the lower case letters into upper case
+letters while copying.
+	 23.	Write a program to rewrite the string "Good
+Morning" to "Good Evening" .
+	 24.	Write a program to read and display names of
+employees in a department.
+	 25.	 Write a program to read a line until a newline is
+entered.
+	 26.	Write a program to read a short story. Rewrite
+the story by printing the line number before the
+starting of each line.
+	 27.	Write a program to enter a text that contains
+multiple lines. Display the n lines of text starting
+from the m th line.
+	 28.	 Write a program to check whether a pattern exists
+in a text. If it does, delete the pattern and display
+it.
+	 29.	 Write a program to insert a new name in the string
+array STUD[][] , assuming that names are sorted
+alphabetically.
+	 30.	Write a program to delete a name in the string
+array STUD[][] , assuming that names are sorted
+alphabetically.
