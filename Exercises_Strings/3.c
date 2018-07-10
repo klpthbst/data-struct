@@ -16,12 +16,14 @@ int     main(void) {
     int n;
     int i;
 
-    n = 7;
+    n = 100;
     i = 0;
     while (s1[i] != '\0' && s2[i] != '\0' && n-- > 0) {
-        if (char_compare(s1[i], s2[i]) == 0)
+        if (char_compare(s1[i], s2[i]) == 0) {
             printf("s1 char is equal to s2 char: %c == %c\n", s1[i], s2[i]);
-        printf("s1 char is not equal to s2 char: %c != %c\n", s1[i], s2[i]);
+        } else {
+            printf("s1 char is not equal to s2 char: %c != %c\n", s1[i], s2[i]);
+        }
         i++;
     }
     return 0;

@@ -4,7 +4,6 @@ upper case characters, lower case characters, and
 special characters in a given string.
 */
 
-#include <stdio.h>
 #include "ft_string.c"
 
 int     main(void) {

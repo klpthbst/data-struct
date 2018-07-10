@@ -4,12 +4,11 @@ display the number of times the word ‘the’ appears
 in the text.
 */
 
-#include <stdio.h>
 #include "ft_string.c"
 
 #define BUFF 4096
 
-int     main(void) {
+int     main() {
 
     char    str[BUFF];
     char    c[] = "thethe";

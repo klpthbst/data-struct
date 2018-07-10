@@ -25,6 +25,6 @@ int     main(void) {
     }
     j = 0;
     while(arr_to[j] != '\0')
-        printf("%c", arr_to[j++]);
+        printf("%c\n", arr_to[j++]);
     return 0;
 }

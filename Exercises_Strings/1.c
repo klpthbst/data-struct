@@ -7,8 +7,8 @@ argument to a function.
 
 
 int     main(void) {
-    char s[10] = "heelloo";
+    char s[10] = "testt";
 
-    printf("string length = %d\n", ft_strlen(s));
+    printf("string length = %zu\n", ft_strlen(s));
     return 0;
 }

@@ -3,7 +3,6 @@
 character with another character in a string.
 */
 
-#include <stdio.h>
 #include "ft_string.c"
 
 int     main(void) {

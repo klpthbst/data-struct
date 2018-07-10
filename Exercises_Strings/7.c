@@ -3,11 +3,10 @@
 occurrences of a given character in the string.
 */
 
-#include <stdio.h>
 #include "ft_string.c"
 
 int     main(void) {
     char *str = "wqeeqwe23deebssssb";
-    char c = 'a';
+    char c = 's';
     printf("char %c occurences %d times\n", c, ft_charoccurences(str, c));
 }
